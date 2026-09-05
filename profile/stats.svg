@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">raihanfs_go's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 1365, Total PRs: 750, Total Issues: 3, Contributed to (last year): 35</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 1366, Total PRs: 751, Total Issues: 3, Contributed to (last year): 35</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 145.88961149436912;
+        stroke-dashoffset: 145.88695029160493;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >750</text>
+      >751</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
